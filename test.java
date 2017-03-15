@@ -24,3 +24,8 @@ public class FirstDayAtSchool {
                 return schoolbag;
 }
 
+       public String[] addSomething() {
+                String[] schoolbag = {"1", "2", "3", "4"};
+                System.out.println("test:" "+Arrays.toString(schoolbag));
+                return schoolbag;
+}
