@@ -15,3 +15,11 @@ public class FirstDayAtSchool {
 	}
 }
 // test1
+// test2
+//
+
+        public String[] addPencils() {
+                String[] schoolbag = {"carss", "beers", "socks", "food"};
+                System.out.println("Now my school bag contain: "+Arrays.toString(schoolbag));
+                return schoolbag;
+
